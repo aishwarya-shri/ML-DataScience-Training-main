@@ -1,35 +1,35 @@
-# Module 1 – Data Science & Machine Learning
+# ML-DataScience-Training
 
-Welcome to Module 1!
+A structured repository containing course materials, practical notebooks, presentations, datasets, and mini-projects for **AI, Machine Learning, and Data Science training**.
 
-This folder contains all the learning materials, datasets, practical notebooks, cheat sheets, and project resources covered during the module.
+## 📚 Repository Structure
 
-## 📚 Contents
+The repository is organized **module-wise** to keep all training resources easy to access and maintain.
 
-### 📌 Cheatsheets
-Contains quick-reference cheat sheets and presentation material for revision.
+Each module may contain:
 
-### 📊 Datasets
-Contains the datasets used during the practical sessions.
+- 📓 Practical Jupyter / Google Colab Notebooks
+- 📊 Datasets
+- 📑 Presentation Slides
+- 📝 Notes & Cheat Sheets
+- 🖼️ Supporting Resources
+- 🚀 Mini Projects
 
-### 💻 Project Notebooks
-Contains the Google Colab/Jupyter Notebook files used during practical sessions.
+## 🎯 Purpose
 
-### 📖 How to Upload
-Contains a simple guide explaining how to download and open the `.ipynb` notebooks in Google Colab.
+This repository serves as a **central learning hub** for students to access class materials, practical exercises, datasets, and projects throughout the training.
 
-## 🚀 How to Use the Notebooks
+New modules and learning resources will be added as the training progresses.
 
-1. Open the `project-Notebooks` folder.
-2. Select the required `.ipynb` notebook.
-3. Download the notebook.
-4. Open [Google Colab](https://colab.research.google.com/).
-5. Upload the downloaded `.ipynb` file.
-6. Connect to the runtime.
-7. Run the cells one by one.
+## 👨‍🏫 Trainer
 
-## ⚠️ Important
+**Mohmad Asif**  
+AI & Machine Learning Trainer | Data Science Trainer
 
-Please download the required dataset along with the notebook when working on a practical.
+## 🔗 Repository
 
-Happy Learning! 🚀
+[ML-DataScience-Training](https://github.com/Mohmadasif/ML-DataScience-Training)
+
+---
+
+⭐ Explore the module folders above to access the relevant learning materials and projects.
